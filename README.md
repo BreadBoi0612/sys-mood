@@ -55,7 +55,7 @@ cd sys-mood
 pip install -r requirements.txt
 python main.py
 ```
-# To Install pip:
+### To Install pip:
 ```bash
 sudo pacman -Syu
 sudo pacman -S python-pip
