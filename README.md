@@ -50,10 +50,15 @@ Python libraries:
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/sysmood.git
-cd sysmood
+git clone https://github.com/BreadBoi0612/sys-mood.git
+cd sys-mood
 pip install -r requirements.txt
 python main.py
+```
+# To Install pip:
+```bash
+sudo pacman -Syu
+sudo pacman -S python-pip
 ```
 
 ## 🧠 How It Works
